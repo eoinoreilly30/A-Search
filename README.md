@@ -1,2 +1,5 @@
-# EE324 - Path Planning Project
-Java code for an implementation on the A-Star search algorithm for path planning
+# A* Search
+A-Star search algorithm for path planning implememted in Java
+
+Yellow lines are all paths considered during exploration. Final shortest path shown on right
+![pathfinder]()
